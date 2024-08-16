@@ -17,6 +17,7 @@ Gerencie e responda às solicitações de seguro de forma eficaz.
 Receba notificações instantâneas sobre pendências e aprovações.
 
 Para utilizar o sistema, é necessário:
+
 Instale o XAMPP e inicie Apache e MySQL.
 No phpMyAdmin, clique em + Novo e crie um banco de dados chamado seguradora.
 Vá para Importar, selecione banco.sql da pasta Seguradora e importe-o.
