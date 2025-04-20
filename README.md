@@ -1,3 +1,4 @@
+<div style="border: 2px solid #FF6347; padding: 10px; margin: 10px;">
 # Seguradora-Oficina
 Sistema Integrado de Seguradora com Oficina
 Este sistema facilita a comunicação entre seguradoras e oficinas, tornando o processo mais ágil e eficiente.
@@ -28,3 +29,4 @@ Copie a pasta do projeto para htdocs.
 Acesse o sistema em http://localhost/nome-da-pasta.
 
 Desfrute do sistema! 🌟
+</div>
